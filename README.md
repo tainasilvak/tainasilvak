@@ -1,5 +1,16 @@
-### Hi there 👋
+### Hi there! 😆
 
+Me chamo Tainá Silva e atualmente estou fazendo projetos usando:
+  - HTML
+  - CSS
+    
+Estou aprendendo também JavaScript, para poder deixar os meus próximos projetos mais dinâmicos   
+
+
+
+![Tainá's GitHub stats](https://github-readme-stats.vercel.app/api?username=tainasilvak&theme=dark&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tainasilvak&hide_progress=true)
 <!--
 **tainasilvak/tainasilvak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
