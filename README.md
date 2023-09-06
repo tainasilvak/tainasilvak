@@ -3,7 +3,7 @@
 Me chamo Tainá Silva, sou uma desenvolvedora Front End e apaixonada por tecnologia. 
 <br>
 <br>
-Atualmente estou fazendo projetos usando: 
+Atualmente faço projetos usando: 
 
 - HTML
 - CSS
