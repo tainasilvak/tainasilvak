@@ -9,9 +9,6 @@ Atualmente estou fazendo projetos usando:
 - CSS
 - JAVASCRIPT
 
-<br>
-<br>
-    
 Estou começando a estudar React para deixar meus projetos mais profissionais 
 
 ![Tainá's GitHub stats](https://github-readme-stats.vercel.app/api?username=tainasilvak&theme=dark&show_icons=true)
